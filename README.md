@@ -8,7 +8,7 @@ mídias (fitas, VHS, CDs e DVDs), cartazes e mapas.
 
 Todos os itens do acervo devem suportar as seguintes funcionalidades:
 • Podem ser emprestados;
-• Podem ter suas informações pesquisadas; e
+• Podem ter suas informações pesquisadas;
 • Fornecem a sua ficha catalográfica (veja o modelo abaixo).
 
 Após definir a hierarquia de classes, desenvolva um programa que instancie alguns
